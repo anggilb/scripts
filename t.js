@@ -1,6 +1,6 @@
 var trkParams = window.trkParams || {
   trackerUrl: "https://cdn.cartsguru.io/scripts/20210823",
-  platform: "shopify-app",
+  platform: "shopify",
   siteId: "a5dff88d-aa84-42e3-8a7c-f4d63819ae51",
   features: { ci: true, fbm: false, scoring: false, widgets: [] },
   funnelMetaData: [],
