@@ -1,4 +1,4 @@
 accountId;firstname;lastname;email;phoneNumber;birthDate;country;isNewCustomer;gender;storeCreationDate;storeUpdatedDate;postcode;province;newsletterSubscriptionDate
-ACC-1001;Ana;Lopez;ana.lopez@example.com;34611222333;1992-05-10 00:00;ES;true;female;2026-01-15 10:30;2026-04-20 08:45;28001;Madrid;2026-01-16 09:00
-ACC-1002;Carlos;Martin;carlos.martin@example.com;33612345678;1988-11-21 00:00;FR;false;male;2025-09-01 14:20;2026-04-18 11:10;75001;Paris;2025-09-02 12:00
-ACC-1003;Sofia;Garcia;sofia.garcia@example.com;393331234567;1995-03-04 00:00;IT;true;female;2026-02-08 16:00;2026-04-22 10:05;00118;Rome;2026-02-08 16:05
+ACC-1001;Ana;Lopez;ana.lopez@example.com;611222333;1992-05-10 00:00;ES;true;female;2026-01-15 10:30;2026-04-20 08:45;28001;Madrid;2026-01-16 09:00
+ACC-1002;Carlos;Martin;carlos.martin@example.com;612345678;1988-11-21 00:00;FR;false;male;2025-09-01 14:20;2026-04-18 11:10;75001;Paris;2025-09-02 12:00
+ACC-1003;Sofia;Garcia;sofia.garcia@example.com;3331234567;1995-03-04 00:00;IT;true;female;2026-02-08 16:00;2026-04-22 10:05;00118;Rome;2026-02-08 16:05
